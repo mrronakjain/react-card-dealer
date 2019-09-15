@@ -1,5 +1,5 @@
 {
-  "name": "deck_of_cards",
+  "name": "react-card-dealer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
